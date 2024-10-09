@@ -73,7 +73,8 @@ Cost = Wire Length + Penalty
 4. **Acceptance Probability**: Even if the new solution is worse, it may still be
 accepted based on a probability that decreases with temperature:<br>
 <div style="text-align: center;">
-P = exp(−ΔCost / T)</div>
+P = exp(−ΔCost / T)
+</div>
 
 5. **Cooling Schedule**: The temperature decreases over time, allowing for more
 exploration early on and more refinement later. The cooling schedule is

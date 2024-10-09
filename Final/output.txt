@@ -1,7 +1,0 @@
-bounding_box 15 8
-wire_length 43
-g1 0 4
-g2 3 4
-g3 2 0
-g4 5 5
-g5 5 1

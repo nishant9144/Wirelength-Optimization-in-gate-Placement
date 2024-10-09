@@ -1,0 +1,75 @@
+g1 3 3
+Pins g1 0 1 3 2
+g2 4 4
+Pins g2 0 0 4 3
+g3 2 4
+Pins g3 0 1 2 3
+g4 3 3
+Pins g4 0 1 3 2
+g5 4 3
+Pins g5 0 1 4 2 0 2 
+g6 2 3
+Pins g6 0 0 2 2
+g7 3 5
+Pins g7 0 1 3 4
+g8 3 3
+Pins g8 0 1 3 2
+g9 4 4
+Pins g9 0 0 4 3 4 1
+g10 2 3
+Pins g10 0 0 2 2
+g11 3 4
+Pins g11 0 1 3 3
+g12 3 5
+Pins g12 0 2 3 4 3 1
+g13 2 4
+Pins g13 0 1 2 3 0 2
+g14 4 3
+Pins g14 0 0 4 2
+g15 3 3
+Pins g15 0 1 3 2 3 3
+g16 2 5
+Pins g16 0 1 2 4
+g17 3 4
+Pins g17 0 2 3 3 3 4
+g18 3 3
+Pins g18 0 0 3 1 3 2
+g19 4 4
+Pins g19 0 0 4 3
+g20 2 3
+Pins g20 0 0 2 2
+g21 3 4
+Pins g21 0 2 3 3 3 0
+g22 3 5
+Pins g22 0 1 3 4
+g23 4 3
+Pins g23 0 0 4 2
+g24 2 5
+Pins g24 0 1 2 4 2 3
+g25 3 3
+Pins g25 0 1 3 2
+wire g1.p1 g4.p2
+wire g2.p1 g8.p1
+wire g3.p2 g10.p1
+wire g4.p1 g15.p2
+wire g5.p2 g20.p1
+wire g6.p2 g9.p1
+wire g7.p1 g12.p3
+wire g8.p2 g13.p2
+wire g9.p3 g16.p1
+wire g10.p2 g23.p1
+wire g11.p1 g18.p2
+wire g12.p1 g19.p2
+wire g13.p3 g14.p1
+wire g14.p2 g24.p1
+wire g15.p3 g21.p2
+wire g16.p2 g17.p3
+wire g17.p1 g25.p2
+wire g18.p3 g22.p1
+wire g19.p1 g3.p1
+wire g20.p2 g7.p2
+wire g21.p3 g6.p2
+wire g22.p2 g11.p2
+wire g23.p2 g5.p3
+wire g24.p3 g9.p2
+wire g25.p2 g2.p2
